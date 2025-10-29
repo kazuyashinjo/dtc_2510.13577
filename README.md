@@ -6,6 +6,6 @@ The data included in this repository are provided solely for the purpose of
 verifying the results reported in the associated publication.
 
 No part of the data may be reproduced, redistributed, or used for any other 
-purpose without explicit permission from the author(s).
+purpose without explicit permission from the authors.
 
 © 2025 Kazuya Shinjo. All rights reserved.
